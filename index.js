@@ -1,3 +1,8 @@
-import express from "express";
+import {app} from '../src/App.js'
 
-const app=express();
+
+const port = 3000;
+
+app.listen(port, () => {
+    console.log(`Servidor en http://localhost:${port}`);
+});
