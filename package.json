@@ -1,0 +1,20 @@
+{
+  "name": "tp-4---primer-servidor-con-node-y-express",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/jajurin/TP-4---Primer-servidor-con-Node-y-Express#readme",
+  "bugs": {
+    "url": "https://github.com/jajurin/TP-4---Primer-servidor-con-Node-y-Express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jajurin/TP-4---Primer-servidor-con-Node-y-Express.git"
+  },
+  "license": "ISC",
+  "author": "Alan y Nico.J",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
