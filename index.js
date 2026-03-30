@@ -1,8 +1,6 @@
-import {app} from '../src/App.js'
-
+import app from './src/app.js';
 
 const port = 3000;
-
 app.listen(port, () => {
-    console.log(`Servidor en http://localhost:${port}`);
+  console.log(`Servidor en http://localhost:${port}`);
 });
